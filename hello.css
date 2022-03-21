@@ -1,0 +1,13 @@
+@charset "UTF-8";
+.header h1 {
+    color: #4A82B9;
+    text-align: center;
+}
+.container {
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header {
+    color: #347AC6;
+}
